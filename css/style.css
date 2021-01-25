@@ -82,5 +82,13 @@ a:hover {
 @media(max-width:375px) {
   .welcome-page h1 {
     line-height: 100%;
+    font-size: 2rem;
+  }
+  .welcome-page p{
+    font-size: 0.7rem;
+  }
+  .welcome-page img{
+    height: 200px;
+    
   }
 }
